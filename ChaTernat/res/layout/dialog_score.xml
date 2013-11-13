@@ -8,17 +8,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="36dp"
+        android:text="ndfjsnjfdsnqj"
         android:textAppearance="?android:attr/textAppearanceLarge" />
-
-    <Button
-        android:id="@+id/btn_scoreOk"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/txt_scoreRecap"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="46dp"
-        android:onClick="scoreOkClick"
-        android:text="@string/lbl_scoreOk" />
 
 </RelativeLayout>

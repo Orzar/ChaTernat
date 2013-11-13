@@ -21,5 +21,6 @@
     <string name="descr_last">Last</string>
     <string name="title_dialog_score">Résultats</string>
     <string name="lbl_scoreOk">OK</string>
+    <string name="descr_final_score">Score : %1$.2f/%2$.0f</string>
 
 </resources>

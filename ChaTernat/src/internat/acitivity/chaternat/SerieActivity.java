@@ -9,6 +9,7 @@ import internat.db.chaternat.DaoSession;
 import internat.db.chaternat.Question;
 import internat.db.chaternat.QuestionDao;
 import internat.db.chaternat.QuestionDao.Properties;
+import internat.models.Notation;
 import internat.models.SerieModel;
 
 import java.util.List;
@@ -17,6 +18,7 @@ import java.util.Random;
 import android.annotation.TargetApi;
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Build;
 import android.os.Bundle;
@@ -53,6 +55,7 @@ public class SerieActivity extends Activity {
 	public ImageButton imgBtnNext;
 
 	public Button btnValidation;
+	public Button btnOkScore;
 
 	public TextView txtQuestion;
 	public TextView txtQuestionCount;
@@ -66,7 +69,7 @@ public class SerieActivity extends Activity {
 
 	public LinearLayout questionLayout;
 	public LinearLayout correctionLayout;
-	
+
 	public ExpandableListView correctionList;
 
 	@Override
@@ -101,7 +104,7 @@ public class SerieActivity extends Activity {
 		// Sometimes, question are too long, we have some scroll in case it's
 		// needed.
 		txtQuestion.setMovementMethod(new ScrollingMovementMethod());
-		
+
 		correctionList = (ExpandableListView) findViewById(R.id.lstview_resultats);
 
 		initiateSerieModel();
@@ -114,7 +117,7 @@ public class SerieActivity extends Activity {
 
 		long countQuestion = questionDao.queryBuilder().count();
 		Question questionToAdd;
-		
+
 		serie = new SerieModel(QUESTION_IN_SERIE);
 
 		for (int i = 0; i <= QUESTION_IN_SERIE; i++) {
@@ -133,7 +136,7 @@ public class SerieActivity extends Activity {
 	private void displayQuestion(int index) {
 		organiseView();
 		// check si question not null
-		//TODO check content of  answer at the index when feeling the answers
+		// TODO check content of answer at the index when feeling the answers
 		txtQuestion.setText(serie.getQuestion(indexSerie).getQuestionNumber()
 				+ ". " + serie.getQuestion(indexSerie).getText());
 		for (Answer answer : serie.getAnswer(indexSerie)) {
@@ -272,31 +275,42 @@ public class SerieActivity extends Activity {
 		indexSerie = QUESTION_IN_SERIE;
 		displayQuestion(indexSerie);
 	}
-	
-	public void scoreOkClick(View view){
-		finish();
+
+	public void scoreOkClick(View view) {
+
 	}
 
 	private void correctSerie() {
+		serie.setCoherenceSerie();
+
 		SerieListViewAdapter adpater = new SerieListViewAdapter(this, serie);
 		correctionList.setAdapter(adpater);
-		
+
 		LayoutInflater factory = LayoutInflater.from(this);
 		View scoreDialogView = factory.inflate(R.layout.dialog_score, null);
-		
 		AlertDialog.Builder scoreDialog = new AlertDialog.Builder(this);
-		
 		scoreDialog.setView(scoreDialogView);
-		
 		scoreDialog.setTitle(R.string.title_dialog_score);
-		
-		scoreDialog.setIcon(this.getResources().getDrawable(R.drawable.resultat_small));
-		
-		txtScoreRecap = (TextView) findViewById(R.id.txt_scoreRecap);
-		
-		txtScoreRecap.setText(serie.getCoherence());
-		
+		scoreDialog.setIcon(this.getResources().getDrawable(
+				R.drawable.resultat_small));
+
+		double overallScore = (QUESTION_IN_SERIE + 1) * Notation.getHigherMark();
+		double serieScore = serie.getTotalMark();
+		String rawString = getResources().getString(R.string.descr_final_score);
+		String formatedString = String.format(rawString, serieScore, overallScore);
+		scoreDialog.setMessage(formatedString);
+
+		scoreDialog.setPositiveButton(R.string.lbl_scoreOk,
+				new DialogInterface.OnClickListener() {
+
+					@Override
+					public void onClick(DialogInterface dialog, int which) {
+						dialog.dismiss();
+					}
+				});
 		scoreDialog.show();
+		
+		//TODO revoir système de point, ça marche pas...
 	}
 
 	/**
