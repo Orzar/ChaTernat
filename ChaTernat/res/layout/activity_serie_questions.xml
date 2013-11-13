@@ -1,0 +1,126 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/lyt_questions"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txt_question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <CheckBox
+            android:id="@+id/chk_answer_a"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:onClick="onCheckBoxClick"
+            android:text="" />
+
+        <CheckBox
+            android:id="@+id/chk_answer_b"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:onClick="onCheckBoxClick"
+            android:text="" />
+
+        <CheckBox
+            android:id="@+id/chk_answer_c"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:onClick="onCheckBoxClick"
+            android:text="" />
+
+        <CheckBox
+            android:id="@+id/chk_answer_d"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:onClick="onCheckBoxClick"
+            android:text="" />
+
+        <CheckBox
+            android:id="@+id/chk_answer_e"
+            android:layout_width="fill_parent"
+            android:layout_height="0px"
+            android:layout_weight="1"
+            android:onClick="onCheckBoxClick"
+            android:text="" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/imgbtn_first"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/descr_first"
+                android:onClick="onFirstClick"
+                android:src="@drawable/go_first_small" />
+
+            <ImageButton
+                android:id="@+id/imgbtn_previous"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/descr_previous"
+                android:onClick="onPreviousClick"
+                android:src="@drawable/go_previous_small" />
+
+            <TextView
+                android:id="@+id/txt_questionCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            <Button
+                android:id="@+id/btn_submit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="onCorrectionClick"
+                android:text="@string/lbl_submit" />
+
+            <ImageButton
+                android:id="@+id/imgbtn_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/descr_next"
+                android:onClick="onNextClick"
+                android:src="@drawable/go_next_small" />
+
+            <ImageButton
+                android:id="@+id/imgbtn_last"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/descr_last"
+                android:onClick="onLastClick"
+                android:src="@drawable/go_last_small" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lyt_correction"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" 
+        android:visibility="gone">
+		
+        <ExpandableListView 
+            android:id="@+id/lstview_resultats"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            
+        </ExpandableListView>
+        
+    </LinearLayout>
+
+</FrameLayout>

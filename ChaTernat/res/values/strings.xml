@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChaTernat</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_random">Random</string>
+    <string name="lbl_submit">Vérifier</string>
+    <string name="lbl_skip">Passé</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="lbl_succcess">Succés</string>
+    <string name="lbl_fail">Raté</string>
+    <string name="lbl_next">Suivant</string>
+    <string name="lbl_correction">Correction</string>
+    <string name="lbl_series">Série</string>
+    <string name="title_activity_serie">SerieActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lbl_previous">Précédent</string>
+    <string name="descr_next">Next</string>
+    <string name="descr_previous">Previous</string>
+    <string name="descr_first">First</string>
+    <string name="descr_last">Last</string>
+    <string name="title_dialog_score">Résultats</string>
+    <string name="lbl_scoreOk">OK</string>
+
+</resources>
