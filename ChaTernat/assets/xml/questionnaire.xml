@@ -3471,7 +3471,7 @@
 		</solutions>
 	</question>
 	<question id="268">
-		<ennonce>Parmi les propositions suivantes une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes une seule est exacte. Laquelle? Une solution jaune absorbe dans une zone du spectre se situant:</ennonce>
 		<reponses ref="268">
 			<reponse id="a">Autour de 250 nm</reponse>
 			<reponse id="b">Autour de 300 nm</reponse>

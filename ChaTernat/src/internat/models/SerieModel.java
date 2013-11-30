@@ -7,18 +7,19 @@ import java.util.ArrayList;
 import java.util.List;
 
 import android.util.SparseArray;
+import android.util.SparseIntArray;
 
 public class SerieModel {
 
 	private SparseArray<Question> questionList;
 	private SparseArray<List<String>> chosenAnswer;
-	private SparseArray<Integer> coherenceNumber;
+	private SparseIntArray coherenceNumber;
 
 	public SerieModel(int capacity) {
 		super();
 		this.questionList = new SparseArray<Question>(capacity);
 		this.chosenAnswer = new SparseArray<List<String>>(capacity);
-		this.coherenceNumber = new SparseArray<Integer>(capacity);
+		this.coherenceNumber = new SparseIntArray(capacity);
 	}
 
 	/**
@@ -173,18 +174,14 @@ public class SerieModel {
 		int nbCoherence = 0;
 
 		for (Answer ans : questionList.get(index).getAnswerList()) {
-			if (chosenAnswer.get(index).contains(ans.getLetter())
-					&& (ans.getSolution()))
+			if (chosenAnswer.get(index).contains(ans.getLetter()) && (ans.getSolution()))
 				nbCoherence++;
-			if (!chosenAnswer.get(index).contains(ans.getLetter())
-					&& (!ans.getSolution()))
+			if (!chosenAnswer.get(index).contains(ans.getLetter()) && (!ans.getSolution()))
 				nbCoherence++;
-			if (chosenAnswer.get(index).contains(ans.getLetter())
-					&& (!ans.getSolution()))
-				nbCoherence--;
-			if (!chosenAnswer.get(index).contains(ans.getLetter())
-					&& (ans.getSolution()))
-				nbCoherence--;
+			if (chosenAnswer.get(index).contains(ans.getLetter()) && (!ans.getSolution()))
+				nbCoherence = (nbCoherence > 0) ? nbCoherence-- : 0;
+			if (!chosenAnswer.get(index).contains(ans.getLetter()) && (ans.getSolution()))
+				nbCoherence = (nbCoherence > 0) ? nbCoherence-- : 0;
 		}
 		
 		if (nbCoherence  <= 2)
@@ -197,8 +194,8 @@ public class SerieModel {
 	 * Get the total mark for a serie, the amount is on serie.count * 2.
 	 * @return the amount of mark for a serie.
 	 */
-	public int getTotalMark() {
-		int totalMark = 0;
+	public double getTotalMark() {
+		double totalMark = 0;
 		for (int i = 0; i < coherenceNumber.size(); i++) {
 			totalMark += Notation.getMarkForCoherence(coherenceNumber.get(i));
 		}
