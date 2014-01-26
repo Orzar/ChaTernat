@@ -117,7 +117,7 @@
 		</solutions>
 	</question>
 	<question id="10">
-		<ennonce>Parmi les propositions suivantes, laquelle est exacte ? On veut estimer un pourcentage proche de 0,5 avec une précision (écart-type) égale à 5%</ennonce>
+		<ennonce>Parmi les propositions suivantes, laquelle est exacte ? On veut estimer un pourcentage proche de 0,5 avec une précision (écart-type) égale à 5%. La taille de l'échantillon à retenir est:</ennonce>
 		<reponses ref="10">
 			<reponse id="a">100</reponse>
 			<reponse id="b">200</reponse>
@@ -169,7 +169,7 @@
 		</solutions>
 	</question>
 	<question id="14">
-		<ennonce>Parmi les propositions suivantes indiquer celle qui est inexacte</ennonce>
+		<ennonce>Parmi les propositions suivantes indiquer celle qui est inexacte. Le traitement de l'intoxication par les antidépresseurs tricycliques peut comprendre:</ennonce>
 		<reponses ref="14">
 			<reponse id="a">Le lactate de sodium molaire</reponse>
 			<reponse id="b">La ventilation mécanique</reponse>
@@ -195,7 +195,7 @@
 		</solutions>
 	</question>
 	<question id="16">
-		<ennonce>Parmi les propositions suivantes, indiquer la proposition exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer la proposition exacte. Les moutardes à l'azote sont:</ennonce>
 		<reponses ref="16">
 			<reponse id="a">Des antimétabolites</reponse>
 			<reponse id="b">Non toxiques sur les cellules hématopoïétiques</reponse>
@@ -390,7 +390,7 @@
 		</solutions>
 	</question>
 	<question id="31">
-		<ennonce>Parmi les propositions suivantes, indiquer celle qui est exacte</ennonce>
+		<ennonce> Parmi les propositions suivantes, indiquer celle qui est exacte. Dans les conditions physiologiques, le pH le plus élevé est mesuré dans:</ennonce>
 		<reponses ref="31">
 			<reponse id="a">Le suc gastrique</reponse>
 			<reponse id="b">La bile vésiculaire</reponse>
@@ -481,7 +481,7 @@
 		</solutions>
 	</question>
 	<question id="38">
-		<ennonce>Un examen paraclinique a été testé chez 200 malades et 400 témoins</ennonce>
+		<ennonce>Un examen paraclinique a été testé chez 200 malades et 400 témoins. L'examen est positif chez 150 malades et 60 témoins. Quelle est la spécificité?Un examen paraclinique a été testé chez 200 malades et 400 témoins. L'examen est positif chez 150 malades et 60 témoins.Quelle est la spécificité?</ennonce>
 		<reponses ref="38">
 			<reponse id="a">0,71</reponse>
 			<reponse id="b">0,75</reponse>
@@ -767,7 +767,7 @@
 		</solutions>
 	</question>
 	<question id="60">
-		<ennonce>Parmi les propositions suivantes, indiquer celle qui est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle qui est exacte. Le praziquantel (BILTRICIDE®) est le médicament utilisé contre :</ennonce>
 		<reponses ref="60">
 			<reponse id="a">Strongyloides stercoralis</reponse>
 			<reponse id="b">Schistosoma mansoni</reponse>
@@ -910,7 +910,7 @@
 		</solutions>
 	</question>
 	<question id="71">
-		<ennonce>Parmi les propositions suivantes, indiquer celle qui est vraie</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle qui est vraie. La sécrétion d'aldostérone résulte d'une:</ennonce>
 		<reponses ref="71">
 			<reponse id="a">Diminution du débit de NaCl dans le tubule proximal</reponse>
 			<reponse id="b">Augmentation de pression dans l'artériole afférente glomérulaire</reponse>
@@ -1183,7 +1183,7 @@
 		</solutions>
 	</question>
 	<question id="92">
-		<ennonce>Parmi les composés suivants retrouvés dans le métabolisme de l'éthanol, lequel est considéré</ennonce>
+		<ennonce>Parmi les composés suivants retrouvés dans le métabolisme de l'éthanol, lequel est considéré. comme étant le métabolite toxique?</ennonce>
 		<reponses ref="92">
 			<reponse id="a">Éthanol</reponse>
 			<reponse id="b">Acétaldéhyde</reponse>
@@ -1196,7 +1196,7 @@
 		</solutions>
 	</question>
 	<question id="93">
-		<ennonce>Parmi les propositions suivantes, donner la réponse exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner la réponse exacte. Un régime isocratique en chromatographie liquide correspond à :</ennonce>
 		<reponses ref="93">
 			<reponse id="a">Une composition variable de la phase mobile</reponse>
 			<reponse id="b">Un débit variable de phase mobile</reponse>
@@ -1300,7 +1300,7 @@
 		</solutions>
 	</question>
 	<question id="101">
-		<ennonce>Parmi les propositions suivantes, donner la réponse exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner la réponse exacte. Chez la femme, les androgènes sont produits par:</ennonce>
 		<reponses ref="101">
 			<reponse id="a">Le follicule de De Graaf</reponse>
 			<reponse id="b">La corticosurrénale</reponse>
@@ -1443,7 +1443,7 @@
 		</solutions>
 	</question>
 	<question id="112">
-		<ennonce>Parmi les affirmations suivantes, indiquer celle qui est fausse</ennonce>
+		<ennonce>Parmi les affirmations suivantes, indiquer celle qui est fausse. Un bilan d'hémostase préopératoire:</ennonce>
 		<reponses ref="112">
 			<reponse id="a">Doit s'appuyer sur l'interrogatoire du patient</reponse>
 			<reponse id="b">Est fonction du type d'intervention</reponse>
@@ -1488,7 +1488,7 @@
 			<reponse id="b">Les polynucléaires sont hypersegmentés</reponse>
 			<reponse id="c">L'aspect du frottis sanguin est monomorphe</reponse>
 			<reponse id="d">Le frottis sanguin montre de grands lymphocytes hyperbasophiles</reponse>
-			<reponse id="e">La sérologie Epstein Barr Virus (EBV</reponse>
+			<reponse id="e">La sérologie Epstein Barr Virus (EBV) est toujours positive</reponse>
 		</reponses>
 		<solutions ref="115">
 			<solution>d</solution>
@@ -1586,7 +1586,7 @@
 		</solutions>
 	</question>
 	<question id="123">
-		<ennonce>Parmi les propositions suivantes, donner celle qui est inexactee</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner celle qui est inexactee. l'intoxication oxycarbonée grave peut entraîner:</ennonce>
 		<reponses ref="123">
 			<reponse id="a">Des troubles de conscience</reponse>
 			<reponse id="b">Une atteinte coronarienne aiguë</reponse>
@@ -1820,7 +1820,7 @@
 		</solutions>
 	</question>
 	<question id="141">
-		<ennonce>Donner la proposition exacte</ennonce>
+		<ennonce>Donner la proposition exacte. L'idiotypie est une caractéristique moléculaire:</ennonce>
 		<reponses ref="141">
 			<reponse id="a">Définie par un ensemble d'épitopes portés par la partie Fc d'une molécule d'immunoglobuline</reponse>
 			<reponse id="b">Identique chez tous les individus d'une même espèce</reponse>
@@ -2002,7 +2002,7 @@
 		</solutions>
 	</question>
 	<question id="155">
-		<ennonce>Parmi les propositions suivantes, cocher celle qui est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, cocher celle qui est exacte. Dans le but de comparer la précision de 2 méthodes de dosage pour lesquelles on obtient comme variance 2,312 et 3,468 , on utilise le test F de Fisher-Snedecor. La valeur calculée de F sur ces données est égale à :</ennonce>
 		<reponses ref="155">
 			<reponse id="a">1,500</reponse>
 			<reponse id="b">1,156</reponse>
@@ -2028,7 +2028,7 @@
 		</solutions>
 	</question>
 	<question id="157">
-		<ennonce>Parmi les propositions suivantes, indiquer celle qui est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle qui est exacte. Lors d'une intoxication par le méthanol, le traitement peut faire intervenir</ennonce>
 		<reponses ref="157">
 			<reponse id="a">La N-acétyl cystéine</reponse>
 			<reponse id="b">La pralidoxime</reponse>
@@ -2223,7 +2223,7 @@
 		</solutions>
 	</question>
 	<question id="172">
-		<ennonce>Parmi les propositions suivantes, cocher celle qui est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, cocher celle qui est exacte. La période radioactive d'un radioélément dont l'activité a diminué d'un facteur 16 en 6 jours est de:</ennonce>
 		<reponses ref="172">
 			<reponse id="a">15 heures</reponse>
 			<reponse id="b">1 jour</reponse>
@@ -2899,7 +2899,7 @@
 		</solutions>
 	</question>
 	<question id="224">
-		<ennonce>Parmi les propositions suivantes, une seule est fausse</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est fausse. Laquelle? En spectrophotométrie UV-visible, l'absorption:</ennonce>
 		<reponses ref="224">
 			<reponse id="a">Dépend de la longueur d'onde</reponse>
 			<reponse id="b">Dépend de l'épaisseur de la cuve</reponse>
@@ -2925,7 +2925,7 @@
 		</solutions>
 	</question>
 	<question id="226">
-		<ennonce>Parmi les propositions suivantes, donner la réponse exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner la réponse exacte. Le terme de morbidité est synonyme de</ennonce>
 		<reponses ref="226">
 			<reponse id="a">Létalité</reponse>
 			<reponse id="b">Infections nosocomiales</reponse>
@@ -2990,7 +2990,7 @@
 		</solutions>
 	</question>
 	<question id="231">
-		<ennonce>Parmi les propositions suivantes, une seule est fausse</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est fausse. Laquelle? L'héroïne:</ennonce>
 		<reponses ref="231">
 			<reponse id="a">Entraîne une dépendance physique marquée chez l'homme</reponse>
 			<reponse id="b">Entraîne une dépendance psychique marquée chez l'homme</reponse>
@@ -3003,7 +3003,7 @@
 		</solutions>
 	</question>
 	<question id="232">
-		<ennonce>Parmi les propositions suivantes, donner celle qui est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner celle qui est exacte. La prévention primaire a pour but:</ennonce>
 		<reponses ref="232">
 			<reponse id="a">La diminution de l'incidence des maladies</reponse>
 			<reponse id="b">La réduction de la durée des maladies</reponse>
@@ -3679,7 +3679,7 @@
 		</solutions>
 	</question>
 	<question id="284">
-		<ennonce>Parmi les propositions suivantes, donner celle qui est exacte</ennonce>
+		<ennonce> Parmi les propositions suivantes, donner celle qui est exacte. En spectrophotométrie d'adsorption moléculaire, une absorbance de 1 correspond à une absorption du faisceau incident par le composé présent dans la cuve de :</ennonce>
 		<reponses ref="284">
 			<reponse id="a">100 %</reponse>
 			<reponse id="b">90 %</reponse>
@@ -3731,7 +3731,7 @@
 		</solutions>
 	</question>
 	<question id="288">
-		<ennonce>Parmi les propositions suivantes, donner celle qui est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner celle qui est exacte. La mesure de la concentration en ions H30+ est une mesure:</ennonce>
 		<reponses ref="288">
 			<reponse id="a">Ampérométrique</reponse>
 			<reponse id="b">Coulométrique</reponse>
@@ -4160,7 +4160,7 @@
 		</solutions>
 	</question>
 	<question id="321">
-		<ennonce>Parmi les propositions suivantes une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes une seule est exacte. Laquelle? Le principal facteur stimulânt la libération de sécrétine est:</ennonce>
 		<reponses ref="321">
 			<reponse id="a">Les produits de la digestion protéique</reponse>
 			<reponse id="b">L'histamine</reponse>
@@ -4862,7 +4862,7 @@
 		</solutions>
 	</question>
 	<question id="375">
-		<ennonce>Une de ces affirmations est fausse</ennonce>
+		<ennonce>Une de ces affirmations est fausse. Laquelle? La chloroquine :</ennonce>
 		<reponses ref="375">
 			<reponse id="a">Est un analogue structural de la quinine</reponse>
 			<reponse id="b">Possède dans sa structure un noyau naphtacène</reponse>
@@ -4953,7 +4953,7 @@
 		</solutions>
 	</question>
 	<question id="382">
-		<ennonce>Parmi les propositions, une seule est fausse</ennonce>
+		<ennonce>Parmi les propositions, une seule est fausse. Laquelle? Un carbure de formule brute CnH2n:</ennonce>
 		<reponses ref="382">
 			<reponse id="a">Peut être un carbure monocyclique saturé</reponse>
 			<reponse id="b">Peut être un mono-ethylénique</reponse>
@@ -4979,7 +4979,7 @@
 		</solutions>
 	</question>
 	<question id="384">
-		<ennonce>Parmi les propositions suivantes, indiquer celle qui exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle qui exacte. L'indication habituelle du fluconazole (TRIFLUCAN®) est:</ennonce>
 		<reponses ref="384">
 			<reponse id="a">L'amibiase intestinale aiguë</reponse>
 			<reponse id="b">Les helminthiases intestinales</reponse>
@@ -5486,7 +5486,7 @@
 		</solutions>
 	</question>
 	<question id="423">
-		<ennonce>Parmi les propositions suivantes, une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est exacte. Les réactions du cycle de l'urée se produisent</ennonce>
 		<reponses ref="423">
 			<reponse id="a">Dans le cytosol uniquement</reponse>
 			<reponse id="b">Dans la matrice mitochondriale uniquement</reponse>
@@ -5772,7 +5772,7 @@
 		</solutions>
 	</question>
 	<question id="445">
-		<ennonce>Parmi les propositions suivantes, indiquer celle qui est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle qui est exacte. Le crack est une forme:</ennonce>
 		<reponses ref="445">
 			<reponse id="a">D'héroine</reponse>
 			<reponse id="b">De cannabis</reponse>
@@ -5915,7 +5915,7 @@
 		</solutions>
 	</question>
 	<question id="456">
-		<ennonce>Parmi les propositions suivantes, une seule est fausse</ennonce>
+		<ennonce> Parmi les propositions suivantes, une seule est fausse. Laquelle? Le méthanol:</ennonce>
 		<reponses ref="456">
 			<reponse id="a">Présente une toxicité oculaire</reponse>
 			<reponse id="b">Est un réducteur</reponse>
@@ -6071,7 +6071,7 @@
 		</solutions>
 	</question>
 	<question id="468">
-		<ennonce>Un jeune garçon de 2 ans présente des signes hémorragiques</ennonce>
+		<ennonce>Un jeune garçon de 2 ans présente des signes hémorragiques. L'enquête familiale permet de retenir une notion de consanguinité chez ses parents. Le bilan d'hémostase montre un temps de saignement normal, un temps de Quick allongé, un temps de céphaline activé normal. Quel facteur devra faire l'objet d'un dosage spécifique?</ennonce>
 		<reponses ref="468">
 			<reponse id="a">Facteur X</reponse>
 			<reponse id="b">Facteur VII</reponse>
@@ -6123,7 +6123,7 @@
 		</solutions>
 	</question>
 	<question id="472">
-		<ennonce>Parmi les propositions suivantes, une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est exacte. Indiquez laquelle? Pour donner un résultat avec une approximation de 1 %, on doit, dans le cas d'un résultat à un milligramme par litre, donner:</ennonce>
 		<reponses ref="472">
 			<reponse id="a">Aucun chiffre après la virgule</reponse>
 			<reponse id="b">Un chiffre après la virgule</reponse>
@@ -6305,7 +6305,7 @@
 		</solutions>
 	</question>
 	<question id="486">
-		<ennonce>Parmi les propositions suivantes concernant le potassium, une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes concernant le potassium, une seule est exacte. Laquelle ? La part intra-cellulaire du potassium est de:</ennonce>
 		<reponses ref="486">
 			<reponse id="a">98%</reponse>
 			<reponse id="b">50%</reponse>
@@ -6331,7 +6331,7 @@
 		</solutions>
 	</question>
 	<question id="488">
-		<ennonce>Parmi les propositions suivantes, une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est exacte. L'interféron gamma est produit par les:</ennonce>
 		<reponses ref="488">
 			<reponse id="a">Cellules infectées par un virus</reponse>
 			<reponse id="b">Fibroblastes</reponse>
@@ -6552,7 +6552,7 @@
 		</solutions>
 	</question>
 	<question id="505">
-		<ennonce>Parmi les propositions suivantes, une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est exacte. Laquelle? L'aldostérone est secrétée par:</ennonce>
 		<reponses ref="505">
 			<reponse id="a">La zone glomérulée de la cortico-surrénale</reponse>
 			<reponse id="b">La zone réticulée de la cortico-surrénale</reponse>
@@ -6890,7 +6890,7 @@
 		</solutions>
 	</question>
 	<question id="532">
-		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s). La viande de bovin peut transmettre à l'homme la (les) parasitose(s) suivante(s) :</ennonce>
 		<reponses ref="532">
 			<reponse id="a">Toxoplasmose</reponse>
 			<reponse id="b">Giardiase</reponse>
@@ -7143,20 +7143,6 @@
 			<solution>e</solution>
 		</solutions>
 	</question>
-	<question id="549">
-		<ennonce>Indiquer la (les) proposition(s) exacte(s) concernant l'héparine (question supprimée):</ennonce>
-		<reponses ref="549">
-			<reponse id="a">L'héparine n'est active qu'en présence d'antithrombine III</reponse>
-			<reponse id="b">Le traitement par l'héparine peut entraîner une anémie</reponse>
-			<reponse id="c">Le test de choix pour la surveillance du traitement par l'héparine est le taux du complexe prothrombinique</reponse>
-			<reponse id="d">L'héparine est utilisée dans le traitement des Coagulations IntraVasculaires Disséminées (CIVD</reponse>
-			<reponse id="e">L'héparine agit en inhibant la synthèse de la thrombine</reponse>
-		</reponses>
-		<solutions ref="549">
-			<solution>a</solution>
-			<solution>d</solution>
-		</solutions>
-	</question>
 	<question id="550">
 		<ennonce>Parmi les affirmations suivantes, cocher la ou les réponse(s) exacte(s)</ennonce>
 		<reponses ref="550">
@@ -7264,7 +7250,7 @@
 		</solutions>
 	</question>
 	<question id="557">
-		<ennonce>Parmi les propositions suivantes, indiquer celles qui sont exactes</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celles qui sont exactes. Les établissements de santé à but non lucratif:</ennonce>
 		<reponses ref="557">
 			<reponse id="a">Peuvent concourir à la recherche médicale, odontologique et pharmaceutique</reponse>
 			<reponse id="b">Doivent concourir à la formation initiale des professionnels de santé</reponse>
@@ -8175,7 +8161,7 @@
 		</solutions>
 	</question>
 	<question id="617">
-		<ennonce>Donner la (les) proposition(s) exacte(s)</ennonce>
+		<ennonce>Donner la (les) proposition(s) exacte(s). Le thymus est un organe lymphoïde peuplé de cellules épithéliales et immunocompétentes parmi lesquelles on trouve :</ennonce>
 		<reponses ref="617">
 			<reponse id="a">Des lymphocytes T CD4+ CD8+</reponse>
 			<reponse id="b">Des cellules dendritiques</reponse>
@@ -8262,7 +8248,7 @@
 		</solutions>
 	</question>
 	<question id="623">
-		<ennonce>Parmi les propositions suivantes, donner laquelle (lesquelles) est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner laquelle (lesquelles) est (sont) exacte(s). Le diagnostic d'un paludisme à Plasmodium falciparum peut s'établir sur la présence de :</ennonce>
 		<reponses ref="623">
 			<reponse id="a">Hypnozoïtes dans les hépatocytes</reponse>
 			<reponse id="b">Bradyzoïtes dans les érythrocytes</reponse>
@@ -8744,7 +8730,7 @@
 		</solutions>
 	</question>
 	<question id="655">
-		<ennonce>Parmi les propositions suivantes, donner la (les) réponse(s) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner la (les) réponse(s) exacte(s). Le Southern blot :</ennonce>
 		<reponses ref="655">
 			<reponse id="a">Vise à détecter la présence d'une ou plusieurs séquences nucléotidiques dans un génome entier</reponse>
 			<reponse id="b">Permet de détecter la présence d'une mutation sur une séquence nucléotidique définie (Restriction Fragment Lenght Polymorphism : RFLP</reponse>
@@ -8953,7 +8939,7 @@
 		</solutions>
 	</question>
 	<question id="669">
-		<ennonce>Donner la (les) réponse(s) exacte(s)</ennonce>
+		<ennonce>Donner la (les) réponse(s) exacte(s). La filtration glomérulaire :</ennonce>
 		<reponses ref="669">
 			<reponse id="a">Est un phénomène entièrement passif</reponse>
 			<reponse id="b">Ne dépend que de la pression efficace de filtration</reponse>
@@ -8981,7 +8967,7 @@
 		</solutions>
 	</question>
 	<question id="671">
-		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s). Le volume d'éjection systolique augmente avec :</ennonce>
 		<reponses ref="671">
 			<reponse id="a">Le volume télédiastolique</reponse>
 			<reponse id="b">La précharge</reponse>
@@ -9056,7 +9042,7 @@
 		</solutions>
 	</question>
 	<question id="676">
-		<ennonce>Donner la (les) réponse(s) exacte(s)</ennonce>
+		<ennonce>Donner la (les) réponse(s) exacte(s). En chromatographie en phase liquide, la résolution entre deux composés dépend :</ennonce>
 		<reponses ref="676">
 			<reponse id="a">De l'efficacité de la colonne</reponse>
 			<reponse id="b">De la hauteur des pics chromatographiques</reponse>
@@ -9163,7 +9149,7 @@
 		</solutions>
 	</question>
 	<question id="683">
-		<ennonce>Donner la (les) proposition(s) exacte(s)</ennonce>
+		<ennonce>Donner la (les) proposition(s) exacte(s). Les cellules endothéliales synthétisent :</ennonce>
 		<reponses ref="683">
 			<reponse id="a">Du facteur Willebrand</reponse>
 			<reponse id="b">De la thrombomoduline</reponse>
@@ -9207,7 +9193,7 @@
 		</solutions>
 	</question>
 	<question id="686">
-		<ennonce>Donner la (les) proposition(s) exacte(s)</ennonce>
+		<ennonce>Donner la (les) proposition(s) exacte(s). La toxicocinétique de l'éthanol est caractérisée par :</ennonce>
 		<reponses ref="686">
 			<reponse id="a">Une absorption digestive rapide</reponse>
 			<reponse id="b">Une diffusion tissulaire rapide</reponse>
@@ -9435,7 +9421,7 @@
 		</solutions>
 	</question>
 	<question id="701">
-		<ennonce>Donner la (les) réponse(s) exacte(s)</ennonce>
+		<ennonce>Donner la (les) réponse(s) exacte(s). Les lymphocytes T de type Th1 :</ennonce>
 		<reponses ref="701">
 			<reponse id="a">Sont des cellules immatures</reponse>
 			<reponse id="b">Sont spécialisés dans l'induction de la production des anticorps</reponse>
@@ -9655,7 +9641,7 @@
 		</solutions>
 	</question>
 	<question id="716">
-		<ennonce>Parmi les propositions suivantes, donner la (les) réponse{s) exacte{s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner la (les) réponse{s) exacte{s). Le profil de réponse immunitaire de type Th1 est défini par la synthèse des cytokines suivantes:</ennonce>
 		<reponses ref="716">
 			<reponse id="a">Interleukine-1</reponse>
 			<reponse id="b">Interleukine-2</reponse>
@@ -9686,7 +9672,7 @@
 		</solutions>
 	</question>
 	<question id="718">
-		<ennonce>Donner la (les) réponse(s) exacte(s)</ennonce>
+		<ennonce>Donner la (les) réponse(s) exacte(s). Le polynucléaire éosinophile est une cellule possédant certaines propriétés, parmi lesquelles:</ennonce>
 		<reponses ref="718">
 			<reponse id="a">Expression de récepteurs de Fc des IgE</reponse>
 			<reponse id="b">Synthèse d'interféron gamma</reponse>
@@ -10178,7 +10164,7 @@
 		</solutions>
 	</question>
 	<question id="751">
-		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s). Les molécules HLA de classe II :</ennonce>
 		<reponses ref="751">
 			<reponse id="a">Sont des dimères de chaînes polypeptidiques</reponse>
 			<reponse id="b">Sont formées par une chaîne lourde associée à la beta2-microglobuline</reponse>
@@ -10267,7 +10253,7 @@
 		</solutions>
 	</question>
 	<question id="757">
-		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exactes</ennonce>
+		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exactes. Au cours des anémies hémolytiques auto-immunes :	</ennonce>
 		<reponses ref="757">
 			<reponse id="a">Les anticorps observés peuvent être dirigés contre des antigènes du système rhésus</reponse>
 			<reponse id="b">Le test de Coombs est un des éléments du diagnostic</reponse>
@@ -10311,7 +10297,7 @@
 		</solutions>
 	</question>
 	<question id="760">
-		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont exacte(s). Dans le thymus, on trouve :</ennonce>
 		<reponses ref="760">
 			<reponse id="a">Des corpuscules de Hassal</reponse>
 			<reponse id="b">Des lymphocytes</reponse>
@@ -10444,7 +10430,7 @@
 		</solutions>
 	</question>
 	<question id="769">
-		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s). Une hypocalcémie est souvent rencontrée lors :</ennonce>
 		<reponses ref="769">
 			<reponse id="a">D'une insuffisance rénale chronique</reponse>
 			<reponse id="b">D'une hypovitaminose D</reponse>
@@ -10550,7 +10536,7 @@
 		</solutions>
 	</question>
 	<question id="776">
-		<ennonce>Indiquer la ou les proposition(s) exacte(s)</ennonce>
+		<ennonce>Indiquer la ou les proposition(s) exacte(s). Une enquête épidémiologique « exposé/non-exposé » :</ennonce>
 		<reponses ref="776">
 			<reponse id="a">Permet de définir l'incidence d'une maladie dans une population</reponse>
 			<reponse id="b">Permet de contrôler les biais de mémorisation</reponse>
@@ -10853,7 +10839,7 @@
 		</solutions>
 	</question>
 	<question id="797">
-		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s). La phagocytose des bactéries :</ennonce>
 		<reponses ref="797">
 			<reponse id="a">Nécessite l'adhésion des germes à la surface des cellules phagocytaires</reponse>
 			<reponse id="b">Elle est inhibée si les bactéries sont opsonisées</reponse>
@@ -11031,7 +11017,7 @@
 		</solutions>
 	</question>
 	<question id="809">
-		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s). Le flubendazole est très actif dans :</ennonce>
 		<reponses ref="809">
 			<reponse id="a">L'oxyurose</reponse>
 			<reponse id="b">L'ascaridiose</reponse>
@@ -11045,7 +11031,7 @@
 		</solutions>
 	</question>
 	<question id="810">
-		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, cocher celle(s) qui est (sont) exacte(s). Un accident hypoglycémique chez un diabétique traité par l'insuline peut être provoqué par :</ennonce>
 		<reponses ref="810">
 			<reponse id="a">Un exercice physique inhabituel</reponse>
 			<reponse id="b">la prise d'acébutolol (SECTRAL</reponse>
@@ -11207,7 +11193,7 @@
 		</solutions>
 	</question>
 	<question id="821">
-		<ennonce>Parmi les propositions suivantes, indiquer la ou les proposition(s) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer la ou les proposition(s) exacte(s). Un agent complexant peut être utilisé pour :</ennonce>
 		<reponses ref="821">
 			<reponse id="a">Eliminer des ions interférents dans un milieu</reponse>
 			<reponse id="b">Doser un ion métallique</reponse>
@@ -11488,7 +11474,7 @@
 		</solutions>
 	</question>
 	<question id="840">
-		<ennonce>Parmi les propositions suivantes, donner la (les) réponse(s) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner la (les) réponse(s) exacte(s). La déclaration des effets indésirables est obligatoire pour :</ennonce>
 		<reponses ref="840">
 			<reponse id="a">Les produits de diagnostic in vivo</reponse>
 			<reponse id="b">Les vaccins</reponse>
@@ -11952,7 +11938,7 @@
 		</solutions>
 	</question>
 	<question id="871">
-		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s) . Une sécrétion excessive d'aldostérone entraîne :</ennonce>
 		<reponses ref="871">
 			<reponse id="a">Une élévation de l'activité rénine plasmatique</reponse>
 			<reponse id="b">Une diminution de la kaliémie</reponse>
@@ -12098,7 +12084,7 @@
 		</solutions>
 	</question>
 	<question id="881">
-		<ennonce>Donner les réponses exactes</ennonce>
+		<ennonce>Donner les réponses exactes. Le lymphocyte T cytotoxique est une cellule tueuse :</ennonce>
 		<reponses ref="881">
 			<reponse id="a">Capable de détruire successivement plusieurs cellules cibles</reponse>
 			<reponse id="b">Exerçant son activité par l'intermédiaire de l'interleukine-12</reponse>
@@ -12539,7 +12525,7 @@
 		</solutions>
 	</question>
 	<question id="911">
-		<ennonce>Parmi les propositions suivantes, donner laquelle (lesquelles) est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner laquelle (lesquelles) est (sont) exacte(s). Une hyperkaliémie s'observe au cours :</ennonce>
 		<reponses ref="911">
 			<reponse id="a">Des vomissements chroniques</reponse>
 			<reponse id="b">D'un syndrome de Conn</reponse>
@@ -12581,7 +12567,7 @@
 		</solutions>
 	</question>
 	<question id="914">
-		<ennonce>Parmi les propositions suivantes, donner laquelle (lesquelles) est (sont) exacte(s)</ennonce>
+		<ennonce> Parmi les propositions suivantes, donner laquelle (lesquelles) est (sont) exacte(s). Schistosoma mansoni :</ennonce>
 		<reponses ref="914">
 			<reponse id="a">Est un trématode</reponse>
 			<reponse id="b">Est présent aux Caraïbes</reponse>
@@ -12849,7 +12835,7 @@
 		</solutions>
 	</question>
 	<question id="932">
-		<ennonce>Parmi les propositions suivantes, indiquer la (les) réponse(s) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer la (les) réponse(s) exacte(s). Une cétonémie caractérise :</ennonce>
 		<reponses ref="932">
 			<reponse id="a">L'état de jeûne prolongé</reponse>
 			<reponse id="b">Le diabète insipide</reponse>
@@ -13014,7 +13000,7 @@
 		</solutions>
 	</question>
 	<question id="943">
-		<ennonce>Indiquer la ou les réponses exactes</ennonce>
+		<ennonce>Indiquer la ou les réponses exactes. Les anticorps :</ennonce>
 		<reponses ref="943">
 			<reponse id="a">Sont des gammaglobulines</reponse>
 			<reponse id="b">Sont produits par les lymphocytes T</reponse>
@@ -13823,7 +13809,7 @@
 		</solutions>
 	</question>
 	<question id="997">
-		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s). La glycogène synthétase (glycogène synthase) musculaire :</ennonce>
 		<reponses ref="997">
 			<reponse id="a">Accepte le glucose 6-phosphate comme substrat</reponse>
 			<reponse id="b">Est régulée par la proteine kinase A (AMPc dépendante</reponse>
@@ -14251,7 +14237,7 @@
 		</solutions>
 	</question>
 	<question id="1026">
-		<ennonce>Parmi les propositions suivantes, indiquer celle (celles) qui est</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle (celles) qui est .(sont) exacte(s) : Une hémophilie B se traduit par:</ennonce>
 		<reponses ref="1026">
 			<reponse id="a">Un allongement du temps de céphaline avec activateur</reponse>
 			<reponse id="b">Un allongement du temps de thrombine</reponse>
@@ -14997,7 +14983,7 @@
 		</solutions>
 	</question>
 	<question id="1076">
-		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) exacte(s). La cétogenèse :</ennonce>
 		<reponses ref="1076">
 			<reponse id="a">Est réalisée surtout dans l'hépatocyte</reponse>
 			<reponse id="b">Est associée à la synthèse de glycogène</reponse>
@@ -15043,7 +15029,7 @@
 		</solutions>
 	</question>
 	<question id="1079">
-		<ennonce>Donner la ou les réponses</ennonce>
+		<ennonce>Donner la ou les réponses. Une alcalose métabolique se caractérise par :</ennonce>
 		<reponses ref="1079">
 			<reponse id="a">Un taux de bicarbonates plasmatiques supérieur à 26 mmol/L</reponse>
 			<reponse id="b">Une hyperkaliémie</reponse>
@@ -15057,7 +15043,7 @@
 		</solutions>
 	</question>
 	<question id="1080">
-		<ennonce>Parmi les propositions suivantes, indiquer la (les) propositions exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer la (les) propositions exacte(s). Les étapes préliminaires à une titration ampérométrique sont :</ennonce>
 		<reponses ref="1080">
 			<reponse id="a">L'élimination des traces d'oxygène dans les solutions et solvants</reponse>
 			<reponse id="b">Le choix de l'indicateur coloré</reponse>
@@ -15533,7 +15519,7 @@
 		</solutions>
 	</question>
 	<question id="1112">
-		<ennonce>Indiquer la (les) réponse(s) exacte(s)</ennonce>
+		<ennonce>Indiquer la (les) réponse(s) exacte(s). Les molécules d'histocompatibilité de la classe II :</ennonce>
 		<reponses ref="1112">
 			<reponse id="a">Sont codées par les gènes présents au niveau des loci HLA-A, -B et -C</reponse>
 			<reponse id="b">Sont exprimées sur les lymphocytes B et les monocytes macrophages</reponse>
@@ -15712,7 +15698,7 @@
 		</solutions>
 	</question>
 	<question id="1124">
-		<ennonce>Parmi les propositions suivantes, indiquez celle(s) qui sont exactes(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquez celle(s) qui sont exactes(s). Les « marqueurs » tumoraux suivants sont présents sur l'ensemble des lymphocytes B matures :</ennonce>
 		<reponses ref="1124">
 			<reponse id="a">Molécules d'histocompatibilité de classe I</reponse>
 			<reponse id="b">Molécules d'histocompatibilité de classe II</reponse>
@@ -15864,7 +15850,7 @@
 		</solutions>
 	</question>
 	<question id="1134">
-		<ennonce>Parmi les propositions suivantes, indiquez celle(s) qui sont exactes(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquez celle(s) qui sont exactes(s). L'histamine est :</ennonce>
 		<reponses ref="1134">
 			<reponse id="a">Le produit de décarboxylation de l'histidine</reponse>
 			<reponse id="b">Un vasoconstricteur puissant</reponse>
@@ -16472,7 +16458,7 @@
 		</solutions>
 	</question>
 	<question id="1175">
-		<ennonce>Parmi les propositions suivantes concernant les propriétés de la digitoxine, cochez celle qui est (sont) exacte(s) :</ennonce>
+		<ennonce> Parmi les propositions suivantes concernant les propriétés de la digitoxine, cochez celle qui est (sont) exacte(s) :</ennonce>
 		<reponses ref="1175">
 			<reponse id="a">La demi-vie d'élimination est d'environ 20h chez l'adulte normorénal</reponse>
 			<reponse id="b">Le métabolisme hépatique est important</reponse>
@@ -16707,7 +16693,7 @@
 		</solutions>
 	</question>
 	<question id="1191">
-		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) correcte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) correcte(s). La gentamicine :</ennonce>
 		<reponses ref="1191">
 			<reponse id="a">Est un aminoside bactéricide</reponse>
 			<reponse id="b">Est active sur le pneumocoque</reponse>
@@ -16722,7 +16708,7 @@
 		</solutions>
 	</question>
 	<question id="1192">
-		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) correcte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) correcte(s). L'éthambutol :</ennonce>
 		<reponses ref="1192">
 			<reponse id="a">Ne passe pas dans le lait maternel</reponse>
 			<reponse id="b">Est classiquement utilisé en monothérapie</reponse>
@@ -19880,7 +19866,7 @@
 		</solutions>
 	</question>
 	<question id="1534">
-		<ennonce>Un patient de 20 ans est traitÃ© par hÃ©parine de bas poids molÃ©culaire pour une thrombose iliaque</ennonce>
+		<ennonce>Quels sont, dans la liste suivante, l'(les) antihypertenseur(s) qui est(sont) moins actif(s) sur les sujets de race noire par rapport aux sujets de race blanche ?</ennonce>
 		<reponses ref="1534">
 			<reponse id="a">Taux de complexe prothrombinique 35 %</reponse>
 			<reponse id="b">INR = 4</reponse>
@@ -22442,7 +22428,7 @@
 		</solutions>
 	</question>
 	<question id="1707">
-		<ennonce>Cocher la (les) réponse(s) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes concernant les méthodes spectrales quelle(s) est(sont) celle(s) qui est(sont) exacte(s) ?</ennonce>
 		<reponses ref="1707">
 			<reponse id="a">La prostacycline</reponse>
 			<reponse id="b">L'endothéline I</reponse>
