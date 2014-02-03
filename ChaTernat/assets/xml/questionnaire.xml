@@ -91,7 +91,7 @@
 		</solutions>
 	</question>
 	<question id="8">
-		<ennonce>Parmi les propositions suivantes, indiquer celle qui est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle qui est exacte. La première cause de mortalité par cancer chez la femme est due à :</ennonce>
 		<reponses ref="8">
 			<reponse id="a">Cancer du col de l'utérus</reponse>
 			<reponse id="b">Cancer pulmonaire non à petites cellules</reponse>
@@ -2015,7 +2015,7 @@
 		</solutions>
 	</question>
 	<question id="156">
-		<ennonce>Parmi les propositions suivantes, une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est exacte. Laquelle? L'immunité à médiation cellulaire peut-être transmise par:</ennonce>
 		<reponses ref="156">
 			<reponse id="a">Le sérum</reponse>
 			<reponse id="b">Les lymphocytes B</reponse>
@@ -2496,7 +2496,7 @@
 		</solutions>
 	</question>
 	<question id="193">
-		<ennonce>Parmi les propositions suivantes, une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est exacte. Laquelle? Les lymphocytes T exprimant un récepteur gamma delta:</ennonce>
 		<reponses ref="193">
 			<reponse id="a">Expriment nécessairement la molécule CD3</reponse>
 			<reponse id="b">Représentent une sous population de lymphocytes auxiliaires</reponse>
@@ -2704,7 +2704,7 @@
 		</solutions>
 	</question>
 	<question id="209">
-		<ennonce>L'azote organique est éliminé de l'organisme sous différentes formes</ennonce>
+		<ennonce>L'azote organique est éliminé de l'organisme sous différentes formes. Quelle est la forme éliminée de façon prépondérante par voie urinaire ?</ennonce>
 		<reponses ref="209">
 			<reponse id="a">Urée</reponse>
 			<reponse id="b">Créatinine</reponse>
@@ -2951,7 +2951,7 @@
 		</solutions>
 	</question>
 	<question id="228">
-		<ennonce>Parmi les propositions suivantes, une seule est fausse</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est fausse. Laquelle? Le méthanol:</ennonce>
 		<reponses ref="228">
 			<reponse id="a">Est narcotique à forte dose</reponse>
 			<reponse id="b">Est irritant pour les muqueuses oculaires</reponse>
@@ -6500,7 +6500,7 @@
 		</solutions>
 	</question>
 	<question id="501">
-		<ennonce>Parmi les propositions suivantes, une seule est exacte</ennonce>
+		<ennonce>Parmi les propositions suivantes, une seule est exacte. Laquelle? La potasse éthanolique 0,lN permet de doser:</ennonce>
 		<reponses ref="501">
 			<reponse id="a">Le phénobarbital</reponse>
 			<reponse id="b">La morphine</reponse>
@@ -7900,7 +7900,7 @@
 		</solutions>
 	</question>
 	<question id="600">
-		<ennonce>Donner la (les) proposition(s) exacte(s)</ennonce>
+		<ennonce>Donner la (les) proposition(s) exacte(s). Une enquête épidémiologique "cas-témoins" :</ennonce>
 		<reponses ref="600">
 			<reponse id="a">Permet de définir l'incidence d'une maladie dans une population</reponse>
 			<reponse id="b">Permet d'étudier des pathologies rares</reponse>
@@ -12510,7 +12510,7 @@
 		</solutions>
 	</question>
 	<question id="910">
-		<ennonce>Parmi les propositions suivantes, donner laquelle (lesquelles) est (sont) exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, donner laquelle (lesquelles) est (sont) exacte(s). Le mastocyte est une cellule de l'inflammation caractérisée par :</ennonce>
 		<reponses ref="910">
 			<reponse id="a">La fonction de cellule présentatrice d'antigène</reponse>
 			<reponse id="b">La capacité de synthétiser de l'IL-4</reponse>
@@ -16722,7 +16722,7 @@
 		</solutions>
 	</question>
 	<question id="1193">
-		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) correcte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui est (sont) correcte(s). Le soluté de DAKIN :</ennonce>
 		<reponses ref="1193">
 			<reponse id="a">A un titre exprimé en grammes de chlore actif par litre</reponse>
 			<reponse id="b">A un pH légèrement acide pour assurer sa conservation</reponse>
@@ -16958,7 +16958,7 @@
 		</solutions>
 	</question>
 	<question id="1209">
-		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui sont exacte(s)</ennonce>
+		<ennonce>Parmi les propositions suivantes, indiquer celle(s) qui sont exacte(s). La noradrénaline est libérée par :</ennonce>
 		<reponses ref="1209">
 			<reponse id="a">Des neurones du système nerveux central</reponse>
 			<reponse id="b">Les motoneurones</reponse>
@@ -20693,7 +20693,7 @@
 		</solutions>
 	</question>
 	<question id="1586">
-		<ennonce>Donner les réponses exactes</ennonce>
+		<ennonce>Parmi les propositions suivantes, quels sont les principaux facteurs de risque du diabète ?</ennonce>
 		<reponses ref="1586">
 			<reponse id="a">D'une élévation de l'activité des phosphatases alcalines</reponse>
 			<reponse id="b">D'une hypercalcémie</reponse>

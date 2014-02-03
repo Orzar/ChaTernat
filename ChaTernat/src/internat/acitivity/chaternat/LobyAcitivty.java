@@ -15,7 +15,7 @@ public class LobyAcitivty extends Activity {
 	@Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_loby);        
+        setContentView(R.layout.activity_loby);       
         
     }
 
